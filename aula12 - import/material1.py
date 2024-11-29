@@ -1,5 +1,5 @@
 #MODULOS PADRÃO DO PYTHON
-# https://docs.python.or/3/py-modindex.html
+# https://docs.python.org/3/py-modindex.html
 #dicas úteis
 # 1 - EVITE USAR NOMES DE VARIAVEIS
 # IGUAIS A IMPORTAÇÃO
