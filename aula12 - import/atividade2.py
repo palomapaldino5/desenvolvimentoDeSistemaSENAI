@@ -3,12 +3,12 @@
 """
 import random
 
-from random import exit as sair
+#from random import exit as sair
 
-import um_modelo_agenda
+#import um_modelo_agenda
 
-print(um_modelo_agenda)
-print(random)
+#print(um_modelo_agenda)
+#print(random)
 
 
 
