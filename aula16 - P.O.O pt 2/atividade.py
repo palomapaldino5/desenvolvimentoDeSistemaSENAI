@@ -27,7 +27,7 @@ class Carro:
     def carroAdd(self, carroAdd):
         self.carro = carroAdd
 
-carro1 = Carro('fiat uno','Branco', 'FIATOP', 20, 'Fiat')
+carro1 = Carro('Branco', 'FIATOP', 20, 'Fiat')
 print(carro1)
 print(vars(carro1))
 carro1.alterarPlaca('')
