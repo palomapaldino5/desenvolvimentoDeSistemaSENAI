@@ -1,0 +1,62 @@
+[
+    {
+      "nome": "Victor",
+      "notas": [
+        8,
+        7
+      ],
+      "media": 7.5,
+      "aprovacao": null
+    },
+    {
+      "nome": "Bruna",
+      "notas": [],
+      "media": 0,
+      "aprovacao": null
+    },
+    {
+      "nome": "Pedro",
+      "notas": [
+        5,
+        6
+      ],
+      "media": 5.5,
+      "aprovacao": null
+    },
+    {
+      "nome": "Jo\u00e3o",
+      "notas": [],
+      "media": 0,
+      "aprovacao": null
+    },
+    {
+      "nome": "Victor",
+      "notas": [
+        8,
+        7
+      ],
+      "media": 7.5,
+      "aprovacao": null
+    },
+    {
+      "nome": "Bruna",
+      "notas": [],
+      "media": 0,
+      "aprovacao": null
+    },
+    {
+      "nome": "Pedro",
+      "notas": [
+        5,
+        6
+      ],
+      "media": 5.5,
+      "aprovacao": null
+    },
+    {
+      "nome": "Jo\u00e3o",
+      "notas": [],
+      "media": 0,
+      "aprovacao": null
+    }
+  ]
